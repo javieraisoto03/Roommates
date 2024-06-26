@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Roommate 1",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "name": "Roommate 2",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "name": "Roommate 3",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "name": "Roommate 4",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "name": "Roommate 5",
+    "debe": 0,
+    "recibe": 0
+  }
+]
